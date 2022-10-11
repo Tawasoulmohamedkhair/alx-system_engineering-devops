@@ -1,0 +1,2 @@
+#!/bin/bash
+printf"h.2f" $NUM|sort
